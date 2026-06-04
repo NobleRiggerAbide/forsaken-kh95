@@ -1,4 +1,4 @@
-#  
+#  bedwars Scripts new offers the most advanced bedwars Script, with anti-ban and aimbot. Perfect for dominating any match.
 
 
 
